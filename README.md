@@ -5,4 +5,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3371-harshad-number](https://github.com/Rajaselvam-M/leetcode/tree/master/3371-harshad-number) |
+## String
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Rajaselvam-M/leetcode/tree/master/0014-longest-common-prefix) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Rajaselvam-M/leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
