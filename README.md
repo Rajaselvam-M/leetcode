@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Rajaselvam-M/leetcode/tree/master/0001-two-sum) |
 | [0283-move-zeroes](https://github.com/Rajaselvam-M/leetcode/tree/master/0283-move-zeroes) |
 ## Two Pointers
 |  |
@@ -32,4 +33,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2886-faulty-keyboard](https://github.com/Rajaselvam-M/leetcode/tree/master/2886-faulty-keyboard) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Rajaselvam-M/leetcode/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
