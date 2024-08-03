@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Rajaselvam-M/leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Rajaselvam-M/leetcode/tree/master/0020-valid-parentheses) |
 | [1205-defanging-an-ip-address](https://github.com/Rajaselvam-M/leetcode/tree/master/1205-defanging-an-ip-address) |
+| [2886-faulty-keyboard](https://github.com/Rajaselvam-M/leetcode/tree/master/2886-faulty-keyboard) |
 ## Trie
 |  |
 | ------- |
@@ -27,4 +28,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/Rajaselvam-M/leetcode/tree/master/0283-move-zeroes) |
+## Simulation
+|  |
+| ------- |
+| [2886-faulty-keyboard](https://github.com/Rajaselvam-M/leetcode/tree/master/2886-faulty-keyboard) |
 <!---LeetCode Topics End-->
