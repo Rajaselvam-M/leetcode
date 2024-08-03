@@ -4,10 +4,10 @@ class Solution {
 
         for(int i=0;i<s.length();i++)
         {
-            
-            if(s.charAt(i)!='i')
+            char ch=s.charAt(i);
+            if(ch!='i')
             {
-                    sp.append(s.charAt(i));
+                    sp.append(ch);
             }
             else
             {
