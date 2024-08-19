@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Rajaselvam-M/leetcode/tree/master/0001-two-sum) |
+| [0137-single-number-ii](https://github.com/Rajaselvam-M/leetcode/tree/master/0137-single-number-ii) |
 | [0283-move-zeroes](https://github.com/Rajaselvam-M/leetcode/tree/master/0283-move-zeroes) |
 ## Two Pointers
 |  |
@@ -40,4 +41,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Rajaselvam-M/leetcode/tree/master/0001-two-sum) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0137-single-number-ii](https://github.com/Rajaselvam-M/leetcode/tree/master/0137-single-number-ii) |
 <!---LeetCode Topics End-->
